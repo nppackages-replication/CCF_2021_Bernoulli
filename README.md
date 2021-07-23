@@ -6,7 +6,7 @@ https://nppackages.github.io/replication
 
 ## Simulations
 
-- R replication files: [Readme](README.txt) | [Main](CCF_2021_Bernoulli--torun.R)
+- R replication files.
 
 ## Reference
 
